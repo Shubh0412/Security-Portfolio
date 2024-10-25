@@ -16,7 +16,6 @@ Audit
 | 13. | 11.2023 | [NextGen](https://code4rena.com/audits/2023-10-nextgen) | 1 H | [Public](https://code4rena.com/reports/2023-10-nextgen) |  Generative art  | Code4rena |
 | 12. | 10.2023 | [Ethena Labs](https://code4rena.com/audits/2023-10-ethena-labs) | 2 M | [Public](https://code4rena.com/reports/2023-10-ethena) | Staking / Stablecoin | Code4rena |
 | 11. | 08.2023 | [Shell](https://code4rena.com/audits/2023-08-shell-protocol) | QA/Lows | [Public](https://code4rena.com/reports/2023-08-shell) | DeFi | Code4rena |
-| 10. | 04.2024 | [veRWA](https://code4rena.com/audits/2023-08-verwa) | QA/Lows | [Public](https://code4rena.com/reports/2023-08-verwa) | Voting escrow | Code4rena |
-|     |         |                                                   |     |                                                      |            |           |
-|     |         |                                                   |     |                                                      |            |           |
-
+| 10. | 08.2023 | [veRWA](https://code4rena.com/audits/2023-08-verwa) | QA/Lows | [Public](https://code4rena.com/reports/2023-08-verwa) | Voting escrow | Code4rena |
+| 9. | 07.2023 | [Axelar](https://code4rena.com/audits/2023-07-axelar-network) | 1 M | [Public](https://code4rena.com/reports/2022-07-axelar) | Interoperability network | Code4rena |
+| 8. - 1. |  07-03.2023 | Chainlink, Juicebox, Ajna, ENS, Rubicon, Canto, Neo Tokyo | QA/Lows/Gas  | Public |  | Code4rena |
