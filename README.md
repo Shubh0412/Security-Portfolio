@@ -20,7 +20,7 @@
 | 8. - 1. |  07-03.2023 | Chainlink, Juicebox, Ajna, ENS, Rubicon, Canto, Neo Tokyo | QA/Lows/Gas  | Public |  | Code4rena |
 
 ## Cantina Reward
-![Screenshot 2024-10-26 133637](https://github.com/user-attachments/assets/12b858f8-15ed-4608-a759-e6d25cfbe801)
+![Screenshot 2024-10-26 135737](https://github.com/user-attachments/assets/7e9b7a3c-5925-4560-9079-5b583a7e38a9)
 
 ## Top 5
 ![Screenshot 2024-10-26 134323](https://github.com/user-attachments/assets/862167af-6314-4fe4-aafa-d327b33f5514)
