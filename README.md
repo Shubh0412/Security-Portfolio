@@ -1,5 +1,4 @@
-Audit 
-### Public Competitions
+## Public Competitions
 
 | № | Date | Protocol |  Findings | Report | Type | Competition Platform |
 |--------|----------|------|-------------|-----------|------|------|
@@ -19,3 +18,9 @@ Audit
 | 10. | 08.2023 | [veRWA](https://code4rena.com/audits/2023-08-verwa) | QA/Lows | [Public](https://code4rena.com/reports/2023-08-verwa) | Voting escrow | Code4rena |
 | 9. | 07.2023 | [Axelar](https://code4rena.com/audits/2023-07-axelar-network) | 1 M | [Public](https://code4rena.com/reports/2022-07-axelar) | Interoperability network | Code4rena |
 | 8. - 1. |  07-03.2023 | Chainlink, Juicebox, Ajna, ENS, Rubicon, Canto, Neo Tokyo | QA/Lows/Gas  | Public |  | Code4rena |
+
+## Cantina Reward
+![Screenshot 2024-10-26 133637](https://github.com/user-attachments/assets/12b858f8-15ed-4608-a759-e6d25cfbe801)
+
+## Top 5
+![Screenshot 2024-10-26 134323](https://github.com/user-attachments/assets/862167af-6314-4fe4-aafa-d327b33f5514)
