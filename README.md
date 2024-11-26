@@ -2,7 +2,7 @@
 
 | № | Date | Protocol |  Findings | Report | Type | Competition Platform |
 |--------|----------|------|-------------|-----------|------|------|
-| 23. | 09.2024 | [Symbiotic-core](https://cantina.xyz/competitions/8bab566e-a6d4-4c1b-9f28-71a94bfd1da2) | 3 M | Private | Restaking | Cantina |
+| 23. | 09.2024 | [ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e) | 3 M | Private | Restaking | Cantina |
 | 22. | 08.2024 | [Superposition](https://code4rena.com/audits/2024-08-superposition) | 1 H | [Public](https://code4rena.com/reports/2024-08-superposition) | AMM | Code4rena |
 | 21. | 07.2024 | [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | 4 H, 2 M | [Public](https://code4rena.com/reports/2024-07-traitforge) | Gaming / NFT | Code4rena |
 | 20. | 07.2024 | [Munchables](https://code4rena.com/audits/2024-07-munchables) | 1 H | [Public](https://code4rena.com/reports/2024-07-munchables) | GameFi | Code4rena |
@@ -17,7 +17,7 @@
 | 11. | 08.2023 | [Shell](https://code4rena.com/audits/2023-08-shell-protocol) | QA/Lows | [Public](https://code4rena.com/reports/2023-08-shell) | DeFi | Code4rena |
 | 10. | 08.2023 | [veRWA](https://code4rena.com/audits/2023-08-verwa) | QA/Lows | [Public](https://code4rena.com/reports/2023-08-verwa) | Voting escrow | Code4rena |
 | 9. | 07.2023 | [Axelar](https://code4rena.com/audits/2023-07-axelar-network) | 1 M | [Public](https://code4rena.com/reports/2022-07-axelar) | Interoperability network | Code4rena |
-| 8. - 1. |  07-03.2023 | Chainlink, Juicebox, Ajna, ENS, Rubicon, Canto, Neo Tokyo | QA/Lows/Gas  | Public |  | Code4rena |
+| 8. - 1. |  07-03.2023 | Chainlink, Juicebox, PoolTogether Ajna, ENS, Rubicon, Canto, Neo Tokyo | QA/Lows/Gas  | Public |  | Code4rena |
 
 ## Cantina Reward
 ![Screenshot 2024-10-26 135737](https://github.com/user-attachments/assets/7e9b7a3c-5925-4560-9079-5b583a7e38a9)
