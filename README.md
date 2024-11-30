@@ -1,7 +1,9 @@
 ## Public Competitions
 
-| № | Date | Protocol |  Findings | Report | Type | Competition Platform |
+| No. | Date | Protocol |  Findings | Report | Type | Competition Platform |
 |--------|----------|------|-------------|-----------|------|------|
+| 25. | 10.2024 | [Primev](https://cantina.xyz/competitions/4ee8716d-3e0e-4f59-b90d-aa56bf3b484c) | 1 H, 2 M | Private |P2P Interactions | Cantina |
+| 24. | 09.2024 | [Symbiotic](https://cantina.xyz/competitions/8bab566e-a6d4-4c1b-9f28-71a94bfd1da2) | 1 M | Private | Multi-asset Restaking | Cantina |
 | 23. | 09.2024 | [ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e) | 3 M | Private | Restaking | Cantina |
 | 22. | 08.2024 | [Superposition](https://code4rena.com/audits/2024-08-superposition) | 1 H | [Public](https://code4rena.com/reports/2024-08-superposition) | AMM | Code4rena |
 | 21. | 07.2024 | [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | 4 H, 2 M | [Public](https://code4rena.com/reports/2024-07-traitforge) | Gaming / NFT | Code4rena |
@@ -20,7 +22,9 @@
 | 8. - 1. |  07-03.2023 | Chainlink, Juicebox, PoolTogether Ajna, ENS, Rubicon, Canto, Neo Tokyo | QA/Lows/Gas  | Public |  | Code4rena |
 
 ## Cantina Reward
+First Reward on Cantina
 ![Screenshot 2024-10-26 135737](https://github.com/user-attachments/assets/7e9b7a3c-5925-4560-9079-5b583a7e38a9)
 
 ## Top 5
+Top 5 in Ethena Labs contest
 ![Screenshot 2024-10-26 134323](https://github.com/user-attachments/assets/862167af-6314-4fe4-aafa-d327b33f5514)
