@@ -2,6 +2,9 @@
 
 | No. | Date | Protocol |  Findings | Report | Type | Competition Platform |
 |--------|----------|------|-------------|-----------|------|------|
+| 28. | 12.2024 | [SecondSwap](https://code4rena.com/audits/2024-12-secondswap) | 1 M | [Public](https://code4rena.com/reports/2024-12-secondswap) | Lending, Borrowing Trading| Code4rena |
+| 27. | 12.2024 | [Lambo.win](https://code4rena.com/audits/2024-12-lambowin) | 1 H, 1 M | [Public](https://code4rena.com/reports/2024-12-lambowin) |Virtual Liquidity | Code4rena |
+| 26. | 11.2024 | [Concrete](https://code4rena.com/audits/2024-11-concrete) | 2 M | Private |Collateral Leveraging | Code4rena |
 | 25. | 10.2024 | [Primev](https://cantina.xyz/competitions/4ee8716d-3e0e-4f59-b90d-aa56bf3b484c) | 1 H, 2 M | Private |P2P Interactions | Cantina |
 | 24. | 09.2024 | [Symbiotic](https://cantina.xyz/competitions/8bab566e-a6d4-4c1b-9f28-71a94bfd1da2) | 1 M | Private | Multi-asset Restaking | Cantina |
 | 23. | 09.2024 | [ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e) | 3 M | Private | Restaking | Cantina |
