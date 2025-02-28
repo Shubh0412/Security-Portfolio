@@ -2,6 +2,7 @@
 
 | No. | Date | Protocol |  Findings | Report | Type | Competition Platform |
 |--------|----------|------|-------------|-----------|------|------|
+| 29. | 01.2025 | [daao-contracts](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33) | 1 H, 1 M | Private |Liquidity Management | Cantina |
 | 28. | 12.2024 | [SecondSwap](https://code4rena.com/audits/2024-12-secondswap) | 1 M | [Public](https://code4rena.com/reports/2024-12-secondswap) | Lending, Borrowing Trading| Code4rena |
 | 27. | 12.2024 | [Lambo.win](https://code4rena.com/audits/2024-12-lambowin) | 1 H, 1 M | [Public](https://code4rena.com/reports/2024-12-lambowin) |Virtual Liquidity | Code4rena |
 | 26. | 11.2024 | [Concrete](https://code4rena.com/audits/2024-11-concrete) | 2 M | Private |Collateral Leveraging | Code4rena |
@@ -31,3 +32,7 @@ First Reward on Cantina
 ## Top 5
 Top 5 in Ethena Labs contest
 ![Screenshot 2024-10-26 134323](https://github.com/user-attachments/assets/862167af-6314-4fe4-aafa-d327b33f5514)
+
+## Top 6
+![Screenshot 2025-02-28 154238](https://github.com/user-attachments/assets/89f3b5db-ae2b-43b3-b978-e01180ff0b98)
+
