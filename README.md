@@ -2,8 +2,8 @@
 
 | No. | Date | Protocol |  Findings | Report | Type | Competition Platform |
 |--------|----------|------|-------------|-----------|------|------|
-| 31. | 05.2025 | Hyperstable | 1 H, 2 M | Private |Stablecoin | Pashov Audit Group |
-| 30. | 04.2025 | Tanssi | 1 M, 2 L | Private |Staking | Pashov Audit Group |
+| 31. | 05.2025 | [Hyperstable](https://drive.google.com/file/d/1s9pa5N_AWzVkFxzmiFyKymH_6ARSCdmu/view?usp=drive_link) | 1 H, 2 M | Private |Stablecoin | Pashov Audit Group |
+| 30. | 04.2025 | [Tanssi](https://drive.google.com/file/d/1ZUF11Ds5b7vu5PzNMol1J3DwoDPG8Zfm/view?usp=drive_link) | 1 M, 2 L | Private |Staking | Pashov Audit Group |
 | 29. | 01.2025 | [daao-contracts](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33) | 1 H, 1 M | Private |Liquidity Management | Cantina |
 | 28. | 12.2024 | [SecondSwap](https://code4rena.com/audits/2024-12-secondswap) | 1 M | [Public](https://code4rena.com/reports/2024-12-secondswap) | Lending, Borrowing Trading| Code4rena |
 | 27. | 12.2024 | [Lambo.win](https://code4rena.com/audits/2024-12-lambowin) | 1 H, 1 M | [Public](https://code4rena.com/reports/2024-12-lambowin) |Virtual Liquidity | Code4rena |
